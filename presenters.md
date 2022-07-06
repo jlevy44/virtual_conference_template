@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       Presenters
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -23,7 +23,7 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
+key: page-presenters
 ---
 
 ![Dartmouth College](https://user-images.githubusercontent.com/19698023/177466163-29601bdb-da7f-4426-affd-f7c451e41844.png)
