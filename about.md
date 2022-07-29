@@ -59,7 +59,7 @@ key: page-about
         <h4 class="font-semibold text-xl mb-6" style="color: white">Program Information</h4>
         <a
           class="inline-block px-7 py-3 mb-1 border-2 border-gray-200 text-gray-200 font-medium text-sm leading-snug uppercase rounded hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out"
-          href="/presenters"
+          href="/virtual_conference_template/presenters"
           role="button"
           data-mdb-ripple="true"
           data-mdb-ripple-color="light">Listen to our presenters</a>
@@ -217,7 +217,7 @@ key: page-about
         />
         <div class="carousel-caption hidden md:block absolute text-center">
           <h5 class="text-xl text-white">Placeholder- Previous Master's student Christian Haudenschild</h5>
-          <p>Former QBS Master's student has cat named ChaCha and publishes <a href="/presenter_articles/1_Joshua_Levy.html">multimodal deep learning EHR research</a> under mentorship of Dr. Levy.</p>
+          <p>Former QBS Master's student has cat named ChaCha and publishes <a href="/virtual_conference_template/presenter_articles/1_Joshua_Levy.html">multimodal deep learning EHR research</a> under mentorship of Dr. Levy.</p>
         </div>
       </div>
       <div class="carousel-item relative float-left w-full">
@@ -228,7 +228,7 @@ key: page-about
         />
         <div class="carousel-caption hidden md:block absolute text-center">
           <h5 class="text-xl text-white">Placeholder- Dr. Carly Bobak</h5>
-          <p>Placeholder- Learn about Dr. Carly Bobak's innovative work on her <a href="">website</a>.</p>
+          <p>Placeholder- Learn about Dr. Carly Bobak's innovative work on her <a href="https://www.carlybobak.com/">website</a>.</p>
         </div>
       </div>
     </div>
