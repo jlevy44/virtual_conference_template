@@ -1,0 +1,1 @@
+npx pagecrypt _site/index_original.html index.html qbs2022
